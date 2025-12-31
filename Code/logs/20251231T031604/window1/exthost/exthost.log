@@ -1,0 +1,47 @@
+2025-12-31 03:16:06.066 [info] Extension host with pid 105566 started
+2025-12-31 03:16:06.066 [info] Skipping acquiring lock for /home/bator/.config/Code/User/workspaceStorage/2707eb2833f2860ebf88b0e636ebe65e.
+2025-12-31 03:16:06.287 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-31 03:16:06.308 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-31 03:16:06.349 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-31 03:16:06.354 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-31 03:16:06.392 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-31 03:16:06.501 [info] Eager extensions activated
+2025-12-31 03:16:06.514 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 03:16:06.516 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 03:16:06.530 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 03:16:06.585 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 03:16:06.608 [warning] [Decorations] CAPPING events from decorations provider vscode.git 900
+2025-12-31 03:16:06.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 902
+2025-12-31 03:16:10.211 [warning] [Decorations] CAPPING events from decorations provider vscode.git 900
+2025-12-31 03:16:15.317 [warning] [Decorations] CAPPING events from decorations provider vscode.git 898
+2025-12-31 03:16:20.414 [warning] [Decorations] CAPPING events from decorations provider vscode.git 940
+2025-12-31 03:16:21.828 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-12-31 03:16:25.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 941
+2025-12-31 03:16:30.648 [warning] [Decorations] CAPPING events from decorations provider vscode.git 941
+2025-12-31 03:16:35.788 [warning] [Decorations] CAPPING events from decorations provider vscode.git 941
+2025-12-31 03:16:40.933 [warning] [Decorations] CAPPING events from decorations provider vscode.git 941
+2025-12-31 03:16:45.178 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-31 03:16:45.188 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-31 03:16:45.488 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-12-31 03:16:46.044 [warning] [Decorations] CAPPING events from decorations provider vscode.git 943
+2025-12-31 03:16:51.157 [warning] [Decorations] CAPPING events from decorations provider vscode.git 943
+2025-12-31 03:18:46.170 [warning] [Decorations] CAPPING events from decorations provider vscode.git 968
+2025-12-31 03:18:51.292 [warning] [Decorations] CAPPING events from decorations provider vscode.git 951
+2025-12-31 03:18:56.411 [warning] [Decorations] CAPPING events from decorations provider vscode.git 951
+2025-12-31 03:19:01.529 [warning] [Decorations] CAPPING events from decorations provider vscode.git 951
+2025-12-31 03:19:06.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 951
+2025-12-31 03:19:11.782 [warning] [Decorations] CAPPING events from decorations provider vscode.git 951
+2025-12-31 03:19:16.914 [warning] [Decorations] CAPPING events from decorations provider vscode.git 951
+2025-12-31 03:19:22.038 [warning] [Decorations] CAPPING events from decorations provider vscode.git 951
+2025-12-31 03:19:27.159 [warning] [Decorations] CAPPING events from decorations provider vscode.git 951
+2025-12-31 03:19:32.283 [warning] [Decorations] CAPPING events from decorations provider vscode.git 953
+2025-12-31 03:19:37.401 [warning] [Decorations] CAPPING events from decorations provider vscode.git 948
+2025-12-31 03:19:42.516 [warning] [Decorations] CAPPING events from decorations provider vscode.git 949
+2025-12-31 03:19:45.102 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2025-12-31 03:19:46.151 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bator/.config/home/bator/.config/Pictures/screenshot_20251231_031335.png'
+	at Ns.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:18080)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:16027)
+2025-12-31 03:19:47.614 [warning] [Decorations] CAPPING events from decorations provider vscode.git 949
+2025-12-31 03:20:22.164 [warning] [Decorations] CAPPING events from decorations provider vscode.git 949
+2025-12-31 03:33:20.886 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-31 03:33:20.907 [info] Extension host with pid 105566 exiting with code 0

@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "Gruvbox Dark Hard",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "GohuFont 14 Nerd Font",
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorHeight": 17,
+  "editor.cursorSurroundingLines": 1,
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "git.enableSmartCommit": true
+}

@@ -1,0 +1,68 @@
+@theme "gruvbox"
+* {
+    bg: #1d2021;
+    bg-alt: #282828;
+    fg: #fbf1c7;
+    fg-alt: #ebdbb2;
+    
+    background-color: @bg;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    spacing: 0;
+}
+
+configuration {
+    font: "SF Pro Display 10";
+    show-icons: true;
+    display-drun: "";
+    drun-display-format: "{name}";
+}
+
+window {
+    width: 30%;
+    background-color: @bg;
+    border: 2px;
+    border-color: #fabd2f;
+    border-radius: 8px;
+}
+
+inputbar {
+    children: [prompt, entry];
+    background-color: @bg-alt;
+    padding: 12px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+prompt {
+    background-color: transparent;
+    text-color: #fabd2f;
+    padding: 0 8px 0 0;
+}
+
+entry {
+    background-color: transparent;
+    text-color: @fg;
+    placeholder: "Search...";
+    placeholder-color: @fg-alt;
+}
+
+listview {
+    lines: 8;
+    columns: 1;
+    background-color: @bg;
+    padding: 5px 10px;
+}
+
+element {
+    padding: 8px;
+    background-color: transparent;
+    text-color: @fg-alt;
+    border-radius: 4px;
+}
+
+element selected {
+    background-color: #fabd2f;
+    text-color: #1d2021;
+}

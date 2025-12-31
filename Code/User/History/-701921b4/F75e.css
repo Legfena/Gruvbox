@@ -1,0 +1,104 @@
+/* ============================================================================
+ * Wlogout Gruvbox Minimal Theme
+ * Place this at: ~/.config/wlogout/style.css
+ * ============================================================================ */
+
+* {
+    background-image: none;
+    box-shadow: none;
+}
+
+/* Main window */
+window {
+    font-family: "GohuFont", "Gohu GohuFont", monospace;
+    font-size: 14px;
+    background-color: rgba(29, 32, 33, 0.95);
+    /* Gruvbox dark background with transparency */
+}
+
+/* Button container */
+button {
+    background-color: #282828;
+    /* Gruvbox bg0 */
+    color: #fbf1c7;
+    /* Gruvbox fg */
+    border: 2px solid #504945;
+    /* Gruvbox bg2 */
+    border-radius: 0;
+    /* Sharp corners for minimal look */
+    margin: 10px;
+    padding: 20px;
+    min-width: 120px;
+    min-height: 80px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 0;
+    /* Hide icons */
+    outline-style: none;
+    transition: all 0.2s ease-in-out;
+}
+
+/* Button hover state */
+button:hover {
+    background-color: #3c3836;
+    /* Gruvbox bg1 */
+    border: 2px solid #d5c4a1;
+    /* Gruvbox fg2 */
+    color: #fabd2f;
+    /* Gruvbox yellow */
+}
+
+/* Button focus state */
+button:focus {
+    background-color: #504945;
+    /* Gruvbox bg2 */
+    border: 2px solid #fabd2f;
+    /* Gruvbox yellow */
+    color: #fabd2f;
+}
+
+/* Specific button colors on hover */
+#lock:hover {
+    border-color: #83a598;
+    /* Gruvbox blue */
+    color: #83a598;
+}
+
+#logout:hover {
+    border-color: #b8bb26;
+    /* Gruvbox green */
+    color: #b8bb26;
+}
+
+#suspend:hover {
+    border-color: #d3869b;
+    /* Gruvbox purple */
+    color: #d3869b;
+}
+
+#hibernate:hover {
+    border-color: #8ec07c;
+    /* Gruvbox aqua */
+    color: #8ec07c;
+}
+
+#shutdown:hover {
+    border-color: #fb4934;
+    /* Gruvbox red */
+    color: #fb4934;
+}
+
+#reboot:hover {
+    border-color: #fabd2f;
+    /* Gruvbox yellow */
+    color: #fabd2f;
+}
+
+/* Button labels - text only */
+button label {
+    font-family: "GohuFont", "Gohu GohuFont", monospace;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}

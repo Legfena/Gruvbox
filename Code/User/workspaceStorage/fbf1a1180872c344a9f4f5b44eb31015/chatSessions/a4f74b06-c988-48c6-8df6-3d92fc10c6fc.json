@@ -1,0 +1,31 @@
+{
+  "version": 3,
+  "responderUsername": "",
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "a4f74b06-c988-48c6-8df6-3d92fc10c6fc",
+  "creationDate": 1767123907383,
+  "lastMessageDate": 1767123907383,
+  "hasPendingEdits": false,
+  "contrib": {
+    "chatDynamicVariableModel": []
+  },
+  "attachments": [],
+  "mode": {
+    "id": "agent",
+    "kind": "agent"
+  },
+  "inputText": "",
+  "selections": [
+    {
+      "startLineNumber": 1,
+      "startColumn": 1,
+      "endLineNumber": 1,
+      "endColumn": 1,
+      "selectionStartLineNumber": 1,
+      "selectionStartColumn": 1,
+      "positionLineNumber": 1,
+      "positionColumn": 1
+    }
+  ]
+}

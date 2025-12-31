@@ -1,0 +1,39 @@
+2025/12/31-02:45:40.708 16763 Reusing MANIFEST /home/bator/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/31-02:45:40.708 16763 Recovering log #39
+2025/12/31-02:45:40.709 16763 Reusing old log /home/bator/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000039.log 
+2025/12/31-02:46:57.920 16763 Level-0 table #44: started
+2025/12/31-02:46:58.018 16763 Level-0 table #44: 1201784 bytes OK
+2025/12/31-02:46:58.108 16763 Delete type=0 #39
+2025/12/31-02:47:14.313 16763 Compacting 1@1 + 1@2 files
+2025/12/31-02:47:14.374 16763 Generated table #45@1: 422 keys, 73175 bytes
+2025/12/31-02:47:14.374 16763 Compacted 1@1 + 1@2 files => 73175 bytes
+2025/12/31-02:47:14.452 16763 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/31-02:47:14.452 16763 Delete type=2 #41
+2025/12/31-02:47:14.452 16763 Delete type=2 #44
+2025/12/31-02:49:41.729 16763 Level-0 table #47: started
+2025/12/31-02:49:41.847 16763 Level-0 table #47: 1162786 bytes OK
+2025/12/31-02:49:41.915 16763 Delete type=0 #43
+2025/12/31-02:50:11.790 16763 Compacting 1@1 + 1@2 files
+2025/12/31-02:50:11.849 16763 Generated table #48@1: 446 keys, 70684 bytes
+2025/12/31-02:50:11.849 16763 Compacted 1@1 + 1@2 files => 70684 bytes
+2025/12/31-02:50:11.926 16763 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/31-02:50:11.927 16763 Delete type=2 #45
+2025/12/31-02:50:11.927 16763 Delete type=2 #47
+2025/12/31-02:51:55.266 16763 Level-0 table #50: started
+2025/12/31-02:51:55.376 16763 Level-0 table #50: 1027060 bytes OK
+2025/12/31-02:51:55.478 16763 Delete type=0 #46
+2025/12/31-02:53:00.530 16763 Compacting 1@1 + 1@2 files
+2025/12/31-02:53:00.589 16763 Generated table #51@1: 467 keys, 69454 bytes
+2025/12/31-02:53:00.590 16763 Compacted 1@1 + 1@2 files => 69454 bytes
+2025/12/31-02:53:00.690 16763 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/31-02:53:00.690 16763 Delete type=2 #48
+2025/12/31-02:53:00.690 16763 Delete type=2 #50
+2025/12/31-02:54:08.319 16763 Level-0 table #53: started
+2025/12/31-02:54:08.393 16763 Level-0 table #53: 993597 bytes OK
+2025/12/31-02:54:08.471 16763 Delete type=0 #49
+2025/12/31-02:54:17.454 16763 Compacting 1@1 + 1@2 files
+2025/12/31-02:54:17.515 16763 Generated table #54@1: 488 keys, 88208 bytes
+2025/12/31-02:54:17.515 16763 Compacted 1@1 + 1@2 files => 88208 bytes
+2025/12/31-02:54:17.593 16763 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/31-02:54:17.593 16763 Delete type=2 #51
+2025/12/31-02:54:17.593 16763 Delete type=2 #53

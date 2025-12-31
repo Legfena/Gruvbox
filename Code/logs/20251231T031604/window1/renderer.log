@@ -1,0 +1,8 @@
+2025-12-31 03:16:05.718 [info] Started local extension host with pid 105566.
+2025-12-31 03:16:06.013 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-31 03:16:06.528 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-31 03:16:08.361 [info] [perf] Render performance baseline is 16ms
+2025-12-31 03:16:45.488 [error] [Extension Host] (node:105566) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-31 03:19:45.236 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/bator/.config/home/bator/.config/Pictures/screenshot_20251231_031335.png?version%3D1767147585147, resourceToLoad=file:///home/bator/.config/home/bator/.config/Pictures/screenshot_20251231_031335.png?version%3D1767147585147
+2025-12-31 03:19:46.153 [error] An unknown error occurred. Please consult the log for more details.

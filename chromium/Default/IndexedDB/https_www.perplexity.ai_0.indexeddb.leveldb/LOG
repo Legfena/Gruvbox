@@ -1,0 +1,58 @@
+2025/12/29-16:20:24.158 85a Creating DB /home/bator/.config/chromium/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb since it was missing.
+2025/12/29-16:20:24.602 85a Reusing MANIFEST /home/bator/.config/chromium/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/29-16:22:02.586 7c3 Level-0 table #5: started
+2025/12/29-16:22:02.649 7c3 Level-0 table #5: 1058156 bytes OK
+2025/12/29-16:22:02.722 7c1 Current memtable full; waiting...
+2025/12/29-16:22:02.727 7c3 Delete type=0 #3
+2025/12/29-16:22:02.728 7c3 Level-0 table #7: started
+2025/12/29-16:22:02.777 7c1 Current memtable full; waiting...
+2025/12/29-16:22:02.805 7c3 Level-0 table #7: 1022539 bytes OK
+2025/12/29-16:22:02.872 7c3 Delete type=0 #4
+2025/12/29-16:22:02.872 7c3 Level-0 table #9: started
+2025/12/29-16:22:02.938 7c3 Level-0 table #9: 1040222 bytes OK
+2025/12/29-16:22:02.994 7c3 Delete type=0 #6
+2025/12/29-16:22:03.185 7c1 Level-0 table #11: started
+2025/12/29-16:22:03.283 7c1 Level-0 table #11: 1057996 bytes OK
+2025/12/29-16:22:03.350 7c1 Delete type=0 #8
+2025/12/29-16:22:03.946 85a Level-0 table #13: started
+2025/12/29-16:22:04.016 85a Level-0 table #13: 1043174 bytes OK
+2025/12/29-16:22:04.094 85a Delete type=0 #10
+2025/12/29-16:22:04.455 85a Level-0 table #15: started
+2025/12/29-16:22:04.538 85a Level-0 table #15: 1056424 bytes OK
+2025/12/29-16:22:04.594 85a Delete type=0 #12
+2025/12/29-16:22:04.595 85a Compacting 4@0 + 1@1 files
+2025/12/29-16:22:04.649 85a Generated table #16@0: 700 keys, 69650 bytes
+2025/12/29-16:22:04.650 85a Compacted 4@0 + 1@1 files => 69650 bytes
+2025/12/29-16:22:04.694 85a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-16:22:04.694 85a Delete type=2 #7
+2025/12/29-16:22:04.694 85a Delete type=2 #9
+2025/12/29-16:22:04.694 85a Delete type=2 #11
+2025/12/29-16:22:04.694 85a Delete type=2 #13
+2025/12/29-16:22:04.694 85a Delete type=2 #15
+2025/12/29-16:22:04.695 85a Level-0 table #18: started
+2025/12/29-16:22:04.761 85a Level-0 table #18: 1071316 bytes OK
+2025/12/29-16:22:04.828 85a Delete type=0 #14
+2025/12/29-16:22:05.150 7c1 Level-0 table #20: started
+2025/12/29-16:22:05.227 7c1 Level-0 table #20: 1055716 bytes OK
+2025/12/29-16:22:05.294 7c1 Delete type=0 #17
+2025/12/29-16:22:05.786 85a Level-0 table #22: started
+2025/12/29-16:22:05.861 85a Level-0 table #22: 1070256 bytes OK
+2025/12/29-16:22:05.939 85a Delete type=0 #19
+2025/12/29-16:22:06.225 7c3 Level-0 table #24: started
+2025/12/29-16:22:06.305 7c3 Level-0 table #24: 1085773 bytes OK
+2025/12/29-16:22:06.383 7c3 Delete type=0 #21
+2025/12/29-16:22:06.384 7c3 Compacting 4@0 + 1@1 files
+2025/12/29-16:22:06.438 7c3 Generated table #25@0: 1232 keys, 77800 bytes
+2025/12/29-16:22:06.438 7c3 Compacted 4@0 + 1@1 files => 77800 bytes
+2025/12/29-16:22:06.561 7c3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-16:22:06.561 7c3 Delete type=2 #16
+2025/12/29-16:22:06.561 7c3 Delete type=2 #18
+2025/12/29-16:22:06.561 7c3 Delete type=2 #20
+2025/12/29-16:22:06.561 7c3 Delete type=2 #22
+2025/12/29-16:22:06.561 7c3 Delete type=2 #24
+2025/12/29-16:22:07.138 85a Level-0 table #27: started
+2025/12/29-16:22:07.239 85a Level-0 table #27: 1068278 bytes OK
+2025/12/29-16:22:07.328 85a Delete type=0 #23
+2025/12/29-16:22:08.195 85a Level-0 table #29: started
+2025/12/29-16:22:08.339 85a Level-0 table #29: 3665599 bytes OK
+2025/12/29-16:22:08.430 85a Delete type=0 #26

@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "GohuFont 14 Nerd Font",
+    "editor.tabSize": 1
+}

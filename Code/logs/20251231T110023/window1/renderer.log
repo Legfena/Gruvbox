@@ -1,0 +1,14 @@
+2025-12-31 11:00:28.542 [info] Started local extension host with pid 2384.
+2025-12-31 11:00:29.358 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-31 11:00:29.599 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-31 11:00:31.920 [info] [perf] Render performance baseline is 15ms
+2025-12-31 11:01:50.872 [error] [Extension Host] (node:2384) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-31 11:02:51.666 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/bator/.config/.git/refs/heads' failed: No such file or directory (EUNKNOWN) (path: /home/bator)
+2025-12-31 11:02:51.667 [error] [File Watcher (universal)] inotify_add_watch on '/home/bator/.config/.git/refs/heads' failed: No such file or directory
+2025-12-31 11:07:50.166 [warning] [backup tracker] suspended, ignoring unregister event file:///home/bator/.config/rofi/.git/COMMIT_EDITMSG 
+2025-12-31 11:07:50.167 [warning] [backup tracker] suspended, ignoring unregister event file:///home/bator/.config/discord/0.0.119/modules/discord_game_utils/package.json 
+2025-12-31 11:07:50.167 [warning] [backup tracker] suspended, ignoring unregister event file:///home/bator/.config/discord/0.0.119/modules/discord_rpc/package.json 
+2025-12-31 11:07:50.167 [warning] [backup tracker] suspended, ignoring unregister event file:///home/bator/.config/discord/0.0.119/modules/discord_voice/package.json 
+2025-12-31 11:07:50.168 [warning] [backup tracker] suspended, ignoring unregister event file:///home/bator/.config/discord/0.0.119/modules/discord_erlpack/package.json 
+2025-12-31 11:07:50.168 [warning] [backup tracker] suspended, ignoring unregister event file:///home/bator/.config/discord/0.0.119/modules/discord_zstd/package.json 

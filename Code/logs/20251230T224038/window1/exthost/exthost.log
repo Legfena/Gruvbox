@@ -1,0 +1,9 @@
+2025-12-30 22:40:39.710 [info] Extension host with pid 89190 started
+2025-12-30 22:40:39.710 [info] Skipping acquiring lock for /home/bator/.config/Code/User/workspaceStorage/2707eb2833f2860ebf88b0e636ebe65e.
+2025-12-30 22:40:39.776 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-30 22:40:39.796 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-30 22:40:39.840 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-30 22:40:39.847 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-30 22:40:39.882 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-30 22:40:39.960 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-30 22:40:39.965 [info] Extension host with pid 89190 exiting with code 0

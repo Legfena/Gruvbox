@@ -1,0 +1,5 @@
+2025-12-30 22:40:08.549 [info] Started local extension host with pid 83868.
+2025-12-30 22:40:08.893 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-30 22:40:09.235 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-30 22:40:11.288 [info] [perf] Render performance baseline is 14ms
+2025-12-30 22:40:11.701 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

@@ -1,0 +1,60 @@
+2025/12/31-00:55:25.893 6f5 Reusing MANIFEST /home/bator/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/12/31-00:55:25.899 6f5 Recovering log #35
+2025/12/31-00:55:25.899 6f5 Reusing old log /home/bator/.config/vesktop/sessionData/Local Storage/leveldb/000035.log 
+2025/12/31-00:55:44.129 6f4 Level-0 table #39: started
+2025/12/31-00:55:44.202 6f4 Level-0 table #39: 88847 bytes OK
+2025/12/31-00:55:44.291 6f4 Delete type=0 #35
+2025/12/31-00:55:44.291 6f4 Compacting 4@0 + 1@1 files
+2025/12/31-00:55:44.369 6f4 Generated table #40@0: 37 keys, 115918 bytes
+2025/12/31-00:55:44.369 6f4 Compacted 4@0 + 1@1 files => 115918 bytes
+2025/12/31-00:55:44.458 6f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/31-00:55:44.458 6f4 Delete type=2 #28
+2025/12/31-00:55:44.458 6f4 Delete type=2 #30
+2025/12/31-00:55:44.458 6f4 Delete type=2 #33
+2025/12/31-00:55:44.458 6f4 Delete type=2 #36
+2025/12/31-00:55:44.458 6f4 Delete type=2 #39
+2025/12/31-00:56:26.622 6f4 Level-0 table #42: started
+2025/12/31-00:56:26.680 6f4 Level-0 table #42: 95080 bytes OK
+2025/12/31-00:56:26.780 6f4 Delete type=0 #38
+2025/12/31-01:02:19.755 6f4 Level-0 table #44: started
+2025/12/31-01:02:19.824 6f4 Level-0 table #44: 32172 bytes OK
+2025/12/31-01:02:19.913 6f4 Delete type=0 #41
+2025/12/31-01:08:26.919 6f4 Level-0 table #46: started
+2025/12/31-01:08:26.988 6f4 Level-0 table #46: 32254 bytes OK
+2025/12/31-01:08:27.055 6f4 Delete type=0 #43
+2025/12/31-01:14:26.920 6f4 Level-0 table #48: started
+2025/12/31-01:14:26.990 6f4 Level-0 table #48: 34180 bytes OK
+2025/12/31-01:14:27.079 6f4 Delete type=0 #45
+2025/12/31-01:14:27.080 6f4 Compacting 4@0 + 1@1 files
+2025/12/31-01:14:27.134 6f4 Generated table #49@0: 38 keys, 114982 bytes
+2025/12/31-01:14:27.134 6f4 Compacted 4@0 + 1@1 files => 114982 bytes
+2025/12/31-01:14:27.223 6f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/31-01:14:27.224 6f4 Delete type=2 #40
+2025/12/31-01:14:27.224 6f4 Delete type=2 #42
+2025/12/31-01:14:27.224 6f4 Delete type=2 #44
+2025/12/31-01:14:27.224 6f4 Delete type=2 #46
+2025/12/31-01:14:27.225 6f4 Delete type=2 #48
+2025/12/31-01:19:26.919 6f4 Level-0 table #51: started
+2025/12/31-01:19:27.146 6f4 Level-0 table #51: 31251 bytes OK
+2025/12/31-01:19:27.246 6f4 Delete type=0 #47
+2025/12/31-01:24:26.919 6f4 Level-0 table #53: started
+2025/12/31-01:24:27.005 6f4 Level-0 table #53: 32747 bytes OK
+2025/12/31-01:24:27.216 6f4 Delete type=0 #50
+2025/12/31-01:30:26.919 6f4 Level-0 table #55: started
+2025/12/31-01:30:27.011 6f4 Level-0 table #55: 31120 bytes OK
+2025/12/31-01:30:27.200 6f4 Delete type=0 #52
+2025/12/31-01:36:26.919 6f4 Level-0 table #57: started
+2025/12/31-01:36:27.006 6f4 Level-0 table #57: 30494 bytes OK
+2025/12/31-01:36:27.084 6f4 Delete type=0 #54
+2025/12/31-01:36:27.085 6f4 Compacting 4@0 + 1@1 files
+2025/12/31-01:36:27.139 6f4 Generated table #58@0: 43 keys, 117720 bytes
+2025/12/31-01:36:27.139 6f4 Compacted 4@0 + 1@1 files => 117720 bytes
+2025/12/31-01:36:27.228 6f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/31-01:36:27.229 6f4 Delete type=2 #49
+2025/12/31-01:36:27.229 6f4 Delete type=2 #51
+2025/12/31-01:36:27.229 6f4 Delete type=2 #53
+2025/12/31-01:36:27.229 6f4 Delete type=2 #55
+2025/12/31-01:36:27.229 6f4 Delete type=2 #57
+2025/12/31-01:43:26.919 6f4 Level-0 table #60: started
+2025/12/31-01:43:26.982 6f4 Level-0 table #60: 30535 bytes OK
+2025/12/31-01:43:27.060 6f4 Delete type=0 #56

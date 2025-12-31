@@ -1,0 +1,35 @@
+@theme "gruvbox"
+configuration {
+    font: "Jetbrains Mono Nerd 10";
+    show-icons: true;
+    display-drun: "";
+    drun-display-format: "{name}";
+}
+
+window {
+    width: 20%;
+    background-color: #00000000;
+    border: 2px;
+    border-color: #90909044;
+    border-radius: 8px;
+}
+
+mainbox {
+    background-color: #00000000;
+}
+
+inputbar {
+    background-color: #00000000;
+}
+
+listview {
+    background-color: #00000000;
+}
+
+element {
+    background-color: #00000000;
+}
+
+element selected {
+    background-color: #00000000;
+}

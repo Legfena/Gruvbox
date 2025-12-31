@@ -1,0 +1,13 @@
+* {
+    font-size: 12px !important; /* adjust this number */
+}
+
+/* Or more specific */
+body {
+    font-size: 12px !important;
+}
+
+/* For message text specifically */
+[class*="messageContent"] {
+    font-size: 12px !important;
+}

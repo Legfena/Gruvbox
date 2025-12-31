@@ -1,0 +1,12 @@
+2025/12/31-01:15:46.034 6a51 Reusing MANIFEST /home/bator/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/31-01:15:46.034 6a51 Recovering log #35
+2025/12/31-01:15:46.371 6a51 Reusing old log /home/bator/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000035.log 
+2025/12/31-01:15:48.665 6aed Level-0 table #40: started
+2025/12/31-01:15:48.748 6aed Level-0 table #40: 1520303 bytes OK
+2025/12/31-01:15:48.882 6aed Delete type=0 #35
+2025/12/31-01:16:06.214 6a54 Compacting 1@1 + 1@2 files
+2025/12/31-01:16:06.304 6a54 Generated table #41@1: 401 keys, 72620 bytes
+2025/12/31-01:16:06.305 6a54 Compacted 1@1 + 1@2 files => 72620 bytes
+2025/12/31-01:16:06.393 6a54 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/31-01:16:06.393 6a54 Delete type=2 #37
+2025/12/31-01:16:06.394 6a54 Delete type=2 #40

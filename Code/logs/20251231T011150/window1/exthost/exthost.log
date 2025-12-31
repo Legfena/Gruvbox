@@ -1,0 +1,15 @@
+2025-12-31 01:11:51.841 [info] Extension host with pid 23724 started
+2025-12-31 01:11:51.841 [info] Skipping acquiring lock for /home/bator/.config/Code/User/workspaceStorage/2707eb2833f2860ebf88b0e636ebe65e.
+2025-12-31 01:11:51.993 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-31 01:11:52.015 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-31 01:11:52.027 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-12-31 01:11:52.253 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-31 01:11:52.264 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-31 01:11:52.303 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-31 01:11:52.407 [info] Eager extensions activated
+2025-12-31 01:11:52.414 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 01:11:52.416 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 01:11:52.429 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 01:11:52.484 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 01:21:58.729 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-31 01:21:58.745 [info] Extension host with pid 23724 exiting with code 0

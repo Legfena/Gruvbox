@@ -1,0 +1,102 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "9489ea1107f463bd4257dca6f39198f8bdae6adf887bf2ee6d7ac927cfe93328",
+    "telemetry.devDeviceId": "c161a6e9-a328-4f9d-9343-bc5034e29da8",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/bator/.config"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1767140236423"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/bator": "__default__profile__",
+            "file:///": "__default__profile__",
+            "file:///home/bator/.config": "__default__profile__",
+            "file:///home/bator/hyprland-dotfiles-gruvbox": "__default__profile__",
+            "file:///home/bator/Downloads": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1767140236423": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1d2021",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#ebdbb2",
+            "background": "#1d2021",
+            "editorBackground": "#1d2021",
+            "titleBarBackground": "#1d2021",
+            "activityBarBackground": "#1d2021",
+            "activityBarBorder": "#3c3836",
+            "sideBarBackground": "#1d2021",
+            "sideBarBorder": "#3c3836",
+            "statusBarBackground": "#1d2021",
+            "statusBarBorder": "#3c3836",
+            "statusBarNoFolderBackground": "#1d2021"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/bator/.config",
+            "backupPath": "/home/bator/.config/Code/Backups/18166a7f4415849c2d2c9ec22f688668",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 249,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "a457f0e3d162d8f8aadf2d0e621623e7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "fbf1a1180872c344a9f4f5b44eb31015": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6554b652ffc06755ee01a63441ca0ff7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "8c7acb5566adae2ff85c0ac541649a43": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "2707eb2833f2860ebf88b0e636ebe65e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

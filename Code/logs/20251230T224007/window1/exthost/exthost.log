@@ -1,0 +1,25 @@
+2025-12-30 22:40:08.981 [info] Extension host with pid 83868 started
+2025-12-30 22:40:08.981 [info] Skipping acquiring lock for /home/bator/.config/Code/User/workspaceStorage/2707eb2833f2860ebf88b0e636ebe65e.
+2025-12-30 22:40:09.086 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-30 22:40:09.107 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-30 22:40:09.220 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-30 22:40:09.224 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-30 22:40:09.260 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-30 22:40:09.368 [info] Eager extensions activated
+2025-12-30 22:40:09.392 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-30 22:40:09.393 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-30 22:40:09.406 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-30 22:40:09.459 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-30 22:40:11.662 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-30 22:40:11.671 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at Yl (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121921
+	at Array.forEach (<anonymous>)
+	at l5.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121861)
+	at HX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10208)
+	at yN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-30 22:40:11.671 [info] Extension host with pid 83868 exiting with code 0

@@ -1,0 +1,38 @@
+@theme "gruvbox"
+configuration {
+    font: "Jetbrains Mono Nerd 10";
+    show-icons: true;
+    display-drun: "";
+    drun-display-format: "{name}";
+}
+
+window {
+    width: 20%;
+    background-color: rgba(40, 40, 40, 0.51);
+    border: 2px;
+    border-color: #d79921aa;
+    border-radius: 8px;
+}
+
+mainbox {
+    background-color: rgba(40, 40, 40, 0.51);
+}
+
+inputbar {
+    background-color: rgba(60, 56, 54, 0.51);
+    text-color: #ebdbb2;
+}
+
+listview {
+    background-color: rgba(40, 40, 40, 0.51);
+}
+
+element {
+    background-color: rgba(40, 40, 40, 0.51);
+    text-color: #ebdbb2;
+}
+
+element selected {
+    background-color: rgba(215, 153, 33, 0.51);
+    text-color: #919191ff;
+}

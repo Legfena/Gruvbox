@@ -1,0 +1,47 @@
+{
+   "checksum": "0e918503d1e0214711855c15d4b2e7fc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13411173337718167",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13411173362915522",
+            "date_last_used": "0",
+            "guid": "bbe02572-8c54-4c1b-b30a-6101980cab30",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Arch Hyprland Neovim setup - Claude",
+            "type": "url",
+            "url": "https://claude.ai/chat/a8819820-58e4-43c4-be27-cb90edd05020"
+         } ],
+         "date_added": "13411173337718167",
+         "date_last_used": "0",
+         "date_modified": "13411173362915522",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13411173337718167",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

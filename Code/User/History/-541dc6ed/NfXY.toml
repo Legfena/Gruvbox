@@ -1,0 +1,120 @@
+# Macchina Gruvbox Dark Hard Theme
+# Place this file in: ~/.config/macchina/themes/gruvbox.toml
+# Then set it with: macchina --theme gruvbox
+
+# Gruvbox Dark Hard color palette
+spacing = 2
+padding = 0
+hide_ascii = false
+prefer_small_ascii = false
+separator = "  "
+key_color = "Yellow"
+separator_color = "BrightBlack"
+
+# Randomize palette colors
+[palette]
+type = "Full"
+visible = true
+glyph = "⬤ "
+
+[palette.colors]
+0 = "Black"
+1 = "Red"
+2 = "Green"
+3 = "Yellow"
+4 = "Blue"
+5 = "Magenta"
+6 = "Cyan"
+7 = "White"
+
+# Custom color definitions
+[custom_ascii.color]
+# Gruvbox colors for ASCII art
+foreground = [251, 241, 199]  # fg0 - #fbf1c7
+
+[bar.glyph]
+visible = true
+# Gruvbox-themed bar glyphs
+start = "["
+end = "]"
+fill = "="
+empty = "-"
+
+[bar.hide_delimiters]
+visible = false
+
+[bar.progress]
+visible = true
+
+[box]
+visible = false
+title = " System Information "
+
+[box.border]
+visible = true
+
+[custom_ascii]
+visible = false
+
+[keys]
+host = "Host"
+kernel = "Kernel"
+battery = "Battery"
+os = "OS"
+de = "DE"
+wm = "WM"
+distro = "Distro"
+terminal = "Terminal"
+shell = "Shell"
+packages = "Packages"
+uptime = "Uptime"
+memory = "Memory"
+machine = "Machine"
+local_ip = "Local IP"
+backlight = "Brightness"
+resolution = "Resolution"
+cpu_load = "CPU Load"
+cpu = "CPU"
+gpu = "GPU"
+disk_space = "Disk"
+
+# Color mappings using Gruvbox palette
+[[colors]]
+Black = "0x32302f"
+Red = "0xfb4934"
+Green = "0xb8bb26"
+Yellow = "0xfabd2f"
+Blue = "0x83a598"
+Magenta = "0xd3869b"
+Cyan = "0x8ec07c"
+White = "0xebdbb2"
+BrightBlack = "0x7c6f64"
+BrightRed = "0xfb4934"
+BrightGreen = "0xb8bb26"
+BrightYellow = "0xfabd2f"
+BrightBlue = "0x83a598"
+BrightMagenta = "0xd3869b"
+BrightCyan = "0x8ec07c"
+BrightWhite = "0xfbf1c7"
+
+# Optional: Specify which elements to show
+Host = "visible"
+Machine = "visible"
+Kernel = "visible"
+Distribution = "visible"
+OperatingSystem = "hidden"
+DesktopEnvironment = "visible"
+WindowManager = "visible"
+Packages = "visible"
+Shell = "visible"
+Terminal = "visible"
+LocalIP = "hidden"
+Backlight = "hidden"
+Resolution = "hidden"
+Uptime = "visible"
+Memory = "visible"
+Battery = "visible"
+CPU = "visible"
+GPU = "visible"
+DiskSpace = "visible"
+CPULoad = "hidden"

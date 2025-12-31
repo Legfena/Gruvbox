@@ -1,0 +1,7 @@
+@theme "gruvbox"
+configuration {
+    font: "SF Pro Display 10";
+    show-icons: true;
+    display-drun: "";
+    drun-display-format: "{name}";
+}

@@ -1,0 +1,21 @@
+/* ============================================================================
+ * Wlogout Gruvbox Minimal Theme - Font Override Only
+ * Place this at: ~/.config/wlogout/style.css
+ * ============================================================================ */
+
+/* Set Gohu font globally */
+* {
+    font-family: "GohuFont", "Gohu GohuFont", monospace !important;
+}
+
+window {
+    font-family: "GohuFont", "Gohu GohuFont", monospace;
+}
+
+button {
+    font-family: "GohuFont", "Gohu GohuFont", monospace;
+}
+
+button label {
+    font-family: "GohuFont", "Gohu GohuFont", monospace;
+}

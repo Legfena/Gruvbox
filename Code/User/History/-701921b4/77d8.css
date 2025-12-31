@@ -1,0 +1,21 @@
+/* ============================================================================
+ * Wlogout Font Override - Iosevka Nerd Font Mono
+ * Place this at: ~/.config/wlogout/style.css
+ * ============================================================================ */
+
+/* Set Iosevka Nerd Font globally */
+* {
+    font-family: "Iosevka Nerd Font Mono", "Iosevka NFM", monospace !important;
+}
+
+window {
+    font-family: "Iosevka Nerd Font Mono", "Iosevka NFM", monospace;
+}
+
+button {
+    font-family: "Iosevka Nerd Font Mono", "Iosevka NFM", monospace;
+}
+
+button label {
+    font-family: "Iosevka Nerd Font Mono", "Iosevka NFM", monospace;
+}

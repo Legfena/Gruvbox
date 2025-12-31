@@ -1,1 +1,1 @@
-![Screenshot](../Pictures/screenshot_20251231_031335.png)
+![Screenshot](http://i.imgur.com/Kv3hOOW.png)

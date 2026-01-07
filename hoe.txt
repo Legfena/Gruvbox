@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "GohuFont 14 Nerd Font",
+    "editor.cursorBlinking": "smooth",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false
+}
